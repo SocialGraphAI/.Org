@@ -1,2 +1,3 @@
 # .Org
-Quanta Consciousness Research Foundation https://x.com/relationlabs
+Quanta Consciousness Research Foundation ai.socialgraph.unisocial.net
+
