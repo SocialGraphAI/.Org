@@ -1,3 +1,3 @@
 # .Org
-Quanta Consciousness Research Foundation ai.socialgraph.unisocial.net
+Quanta Consciousness Research Foundation dev@ai.socialgraph.unisocial.net
 
